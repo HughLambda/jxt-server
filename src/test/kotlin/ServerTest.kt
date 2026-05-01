@@ -15,4 +15,8 @@ class ServerTest {
         assertEquals(HttpStatusCode.OK, client.get("/").status)
     }
 
+    @Test
+    fun testDB() {
+    }
+
 }
