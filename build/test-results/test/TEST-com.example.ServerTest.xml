@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-02T01:38:51.381Z" hostname="HHs-Mac-mini.local" time="0.217">
+  <properties/>
+  <testcase name="testuserreadbytel" classname="com.example.ServerTest" time="0.217"/>
+  <system-out><![CDATA[2026-05-02 09:38:51.458 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2026-05-02 09:38:51.503 [Test worker] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.mariadb.jdbc.Connection@15eebbff
+2026-05-02 09:38:51.504 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+User(uuid=3d55db09-ce4a-463b-827c-ff72e324baa5, name=hyc, role=PARENT, tel=13300998877, pass=, dev=[217, 216])
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

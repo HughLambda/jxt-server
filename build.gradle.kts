@@ -22,6 +22,8 @@ dependencies {
     implementation(ktorLibs.server.core)
     implementation(ktorLibs.server.netty)
     implementation(ktorLibs.server.websockets)
+    //sessions
+    implementation(ktorLibs.server.sessions)
     //data
     implementation(libs.exposed.core)
     implementation(libs.exposed.jdbc)
@@ -37,4 +39,7 @@ dependencies {
     //阻塞
     implementation("org.mariadb.jdbc:mariadb-java-client:3.3.3")
     implementation("com.zaxxer:HikariCP:5.0.1")
+    //jedis
+
+    implementation("redis.clients:jedis:4.4.3")
 }

@@ -1,0 +1,4 @@
+l2026-05-02 09:38:51.458 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+•2026-05-02 09:38:51.503 [Test worker] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection org.mariadb.jdbc.Connection@15eebbff
+q2026-05-02 09:38:51.504 [Test worker] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+oUser(uuid=3d55db09-ce4a-463b-827c-ff72e324baa5, name=hyc, role=PARENT, tel=13300998877, pass=, dev=[217, 216])
